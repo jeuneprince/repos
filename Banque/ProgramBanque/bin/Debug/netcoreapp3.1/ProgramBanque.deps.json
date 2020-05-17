@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProgramBanque/1.0.0": {
+        "dependencies": {
+          "Banque": "1.0.0"
+        },
+        "runtime": {
+          "ProgramBanque.dll": {}
+        }
+      },
+      "Banque/1.0.0": {
+        "runtime": {
+          "Banque.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProgramBanque/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Banque/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
